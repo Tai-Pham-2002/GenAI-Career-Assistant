@@ -9,7 +9,7 @@ Meet the GenAI Career Assistant—an AI-powered mentor designed to simplify and 
 Meet the GenAI Career Assistant—an AI-powered mentor designed to simplify and support your journey in Generative AI learning, Resume preparation, Interview assistant and job hunting.
 #### Tech Stack
 I have used all free Open source.<br>
-Langchain,Langgraph, Gemini LLM, DuckDuckGoSearchResult
+Langchain,Langgraph, ChatOllama, DuckDuckGoSearchResult
 
 ## Motivation
 As GenAI rapidly evolves, more people are eager to learn it for career advancement or transition. However, navigating the vast resources on the internet and platforms like YouTube can be overwhelming, with long videos and scattered, outdated materials making it hard to know where to begin in this busy life. Even using ChatGPT for coding help often yields deprecated code, as GenAI packages and methods—such as LangChain, LlamaIndex, and Hugging Face—are updated frequently.
