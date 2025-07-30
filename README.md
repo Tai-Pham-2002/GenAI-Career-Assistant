@@ -48,3 +48,21 @@ With the GenAI Career Assistant, your journey to a career in Generative AI becom
 5. **Conditional Routing**: Implement logic to route queries based on their category and sub- category.
 6. **Workflow Compilation**: Compile the graph into an executable application.
 7. **Execution**: Process users queries through the workflow and retrieve results.
+
+
+## Setup and installations
+### Install  Ollama
+https://ollama.com/
+
+### Pull the Qwen model
+ollama pull qwen3:4b
+
+### pip install requirements.txt
+pip install -r requirements.txt
+
+## Run the code
+cd source
+python main.py 
+
+### Note
+Type "exit" to exit for one query.
